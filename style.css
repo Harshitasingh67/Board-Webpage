@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-clip-path{
+    clip-path: polygon(26% 26%, 100% 25%, 75% 100%, 0 100%);
+font-weight: larger;
+
+}
